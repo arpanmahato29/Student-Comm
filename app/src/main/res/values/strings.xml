@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student Comm</string>
+    <string name="student">Student</string>
+    <string name="faculty">Faculty</string>
+    <string name="clubhead">Club Head</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
